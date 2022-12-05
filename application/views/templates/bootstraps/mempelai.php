@@ -14,7 +14,7 @@
         <div class="col-md-12 center pb-xlg mb-md">
           <div class="mempelai-fotobox">
             <a href="https://it-https://it-konsultan.com.com" target="_blank" style="text-decoration:none;">
-              <img src="<?=base_url()?>_assets/img/mempelai/5.JPEG" alt class="img-responsive" />
+              <img src="<?=base_url()?>_assets/img/mempelai/5.jpeg" alt class="img-responsive" />
             </a>
           </div>
         </div>

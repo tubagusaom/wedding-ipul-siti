@@ -15,7 +15,7 @@
 
   <div id="bg-tb" class="slidetb">
 
-    <img class="vhp" src="<?=base_url() ?>_assets/img/mempelai/4.JPEG" alt="">
+    <img class="vhp" src="<?=base_url() ?>_assets/img/mempelai/4.jpeg" alt="">
     <img class="vpc" src="<?=base_url() ?>_assets/img/mempelai/1_bokeh.png" alt="">
 
     <div class="textbg text-center align-self-center animated rubberBand durationtb3" data-appear-animation="rubberBand" data-appear-animation-delay="0">

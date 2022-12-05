@@ -21,7 +21,7 @@
               <span class="thumb-info thumb-info-lighten">
                 <span class="thumb-info-wrapper m-none">
                   <!-- <img src="<?=base_url()?>_assets/img/demos/wedding/history/history-1.jpg" class="img-responsive" alt=""> -->
-                  <img src="<?=base_url()?>_assets/img/mempelai/1.JPEG" class="img-responsive" alt="">
+                  <img src="<?=base_url()?>_assets/img/mempelai/1.jpeg" class="img-responsive" alt="">
                   <!-- <span class="thumb-info-title text-uppercase font-weight-bold">
                     Meeting Wedding Couple
                   </span>
@@ -41,7 +41,7 @@
               <span class="thumb-info thumb-info-lighten">
                 <span class="thumb-info-wrapper m-none">
                   <!-- <img src="<?=base_url()?>_assets/img/demos/wedding/history/history-2.jpg" class="img-responsive" alt=""> -->
-                  <img src="<?=base_url()?>_assets/img/mempelai/2.JPEG" class="img-responsive" alt="">
+                  <img src="<?=base_url()?>_assets/img/mempelai/2.jpeg" class="img-responsive" alt="">
                   <!-- <span class="thumb-info-title text-uppercase font-weight-bold">
                     Wedding Time
                   </span>
@@ -57,7 +57,7 @@
 
         <li class="col-sm-6 col-md-3 p-md isotope-item">
           <div class="history-item">
-            <a href="<?=base_url()?>_assets/img/mempelai/3.JPEG" class="text-decoration-none">
+            <a href="<?=base_url()?>_assets/img/mempelai/3.jpeg" class="text-decoration-none">
               <span class="thumb-info thumb-info-lighten">
                 <span class="thumb-info-wrapper m-none">
                   <!-- <img src="<?=base_url()?>_assets/img/demos/wedding/history/history-2.jpg" class="img-responsive" alt=""> -->
