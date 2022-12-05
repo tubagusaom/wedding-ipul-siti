@@ -1,6 +1,6 @@
 
   <?php
-    // $this->load->view("templates/bootstraps/popup_depan");
+    $this->load->view("templates/bootstraps/popup_depan");
   ?>
 
   <!-- <div class="animated slideOutUp durationslidetb" data-appear-animation="slideOutUp" data-appear-animation-delay="0" data-appear-animation-duration="50s"> -->
