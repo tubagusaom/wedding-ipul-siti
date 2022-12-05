@@ -13,7 +13,7 @@
 		<meta name="google-site-verification" content="c1_exaodmcVzFqPCVaknWvpw-6OX7FOEDq0ZwJ-fYBo" />
 
 		<meta name="keywords" content="Nikah, nikah, Weeding, wedding, Website Wedding, website wedding , undangan , buat undangan online , buat undangan , undangan online"/>
-		<meta name="description" content="Minggu - 30 Oktober 2022">
+		<meta name="description" content="Minggu - 11 Desember 2022">
 		<meta name="author" content="aom.my.id">
 
 
