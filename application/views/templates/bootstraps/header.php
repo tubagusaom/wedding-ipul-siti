@@ -18,8 +18,8 @@
 
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="<?=base_url()?>_assets/img/mempelai/4.jpeg" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="<?=base_url().'_assets/img/mempelai/4.jpeg'?>">
+		<link rel="shortcut icon" href="<?=base_url()?>_assets/img/icon-wedding.png" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="<?=base_url().'_assets/img/icon-wedding.png'?>">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
